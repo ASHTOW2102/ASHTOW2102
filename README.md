@@ -43,7 +43,6 @@
 <br/>
 
 <a href="https://github.com/ASHTOW2102">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ASHTOW2102&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHTOW2102&theme=buefy&layout=compact" />
 </a>
 
