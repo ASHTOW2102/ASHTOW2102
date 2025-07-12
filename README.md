@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-chat/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Chat-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ashish210200@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-youremail@example.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ashish210200@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashish210200@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [ASHTOW2102](https://github.com/ASHTOW2102)
