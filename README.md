@@ -3,9 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; SDE at HCLTech, currently working on the Mercedes-Benz project  
-- 🧠 &nbsp; Passionate about Artificial Intelligence, LLMs, and real-world ML applications  
-- 🔭 &nbsp; Currently exploring OpenAI API integration and scalable backend systems  
-- 🛠️ &nbsp; Building fast, production-ready APIs using Python, Flask, and FastAPI  
+- 🧠 &nbsp; Passionate about Artificial Intelligence, LLMs, and real-world ML applications   
+- 🛠️ &nbsp; Building fast, production-ready Ml Projects using Python, Gradio and Hugging Face  
 - 📚 &nbsp; Constantly learning and experimenting with modern AI/ML stacks  
 - 📃 &nbsp; [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/AshishChaturvedi-8033/B284216E17918581?sharingId=84573483C46E7A8C)
 
