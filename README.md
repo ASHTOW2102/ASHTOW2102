@@ -57,7 +57,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-chat/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Chat-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ashish-chaturvedi-484360222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Chat-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ashish210200@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashish210200@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://huggingface.co/AshishChaturvedi7"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-Ashish%20Chat-yellow?style=flat-square&logo=huggingface"></a>
 </p>
