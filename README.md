@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; SDE at HCLTech
+- 💼 &nbsp; AI Engineer at HCLTech
 - 🧠 &nbsp; Passionate about Machine Learning, NLP, and Deep Learning  
 - 🛠️ &nbsp; Building production-ready AI/ML projects using Python, Gradio, Hugging Face, and Scikit-learn  
 - 🤗 &nbsp; Actively sharing and hosting ML models on [Hugging Face](https://huggingface.co/YourHuggingFaceUsername)  
