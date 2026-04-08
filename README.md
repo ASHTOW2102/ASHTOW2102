@@ -46,13 +46,7 @@
 - 🔧 &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-<br/>
 
-<a href="https://github.com/ASHTOW2102">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHTOW2102&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
