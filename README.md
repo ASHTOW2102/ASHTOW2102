@@ -19,7 +19,7 @@
 - 🧠 &nbsp; Background spans LLM agents, RAG pipelines, MCP integrations, and workflow automation
 - 🤗 &nbsp; Sharing models and experiments on [Hugging Face](https://huggingface.co/AshishChaturvedi7)
 - 🌐 &nbsp; Full story, timeline, and projects on my [portfolio site](https://ashtow2102.github.io)
-- 📃 &nbsp; Certified: **Claude Certified Architect / Developer / Associate** (Anthropic) · **OpenAI Technical Practitioner** · [**Microsoft Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/AshishChaturvedi-8033/B284216E17918581?sharingId=84573483C46E7A8C) · **Google Cloud Generative AI Leader**
+- 📃 &nbsp; Certified: [**Claude Certified Architect**](https://www.credly.com/badges/10b3cf5b-fd09-44af-b3d2-fab917076aae) · [**Claude Certified Developer**](https://www.credly.com/badges/ab911cdd-dc9b-434f-b3e9-fed476c85aed) · [**Claude Certified Associate**](https://www.credly.com/badges/9063e00e-9899-48c5-a391-1afc8cfad322) · **OpenAI Technical Practitioner** · [**Microsoft Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/AshishChaturvedi-8033/B284216E17918581?sharingId=84573483C46E7A8C) · [**Google Cloud Generative AI Leader**](https://www.credly.com/badges/e6bb211f-522c-4712-8b86-571dbac96acf/public_url)
 
 ### 🛠 Tech Stack
 
@@ -63,12 +63,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHTOW2102&theme=dark&hide_border=true&background=0d1117&ring=2DD4BF&fire=F97316" alt="Streak Stats" />
-</p>
 
 ### 🤝🏻 Connect with Me
 
