@@ -1,59 +1,82 @@
-<h2> Hey there! I'm Ashish 👋 </h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 💼 &nbsp; AI Engineer at HCLTech
-- 🧠 &nbsp; Passionate about Machine Learning, NLP, and Deep Learning  
-- 🛠️ &nbsp; Building production-ready AI/ML projects using Python, Gradio, Hugging Face, and Scikit-learn  
-- 🤗 &nbsp; Actively sharing and hosting ML models on [Hugging Face](https://huggingface.co/YourHuggingFaceUsername)  
-- 📚 &nbsp; Constantly learning and experimenting with cutting-edge AI/ML stacks like Transformers, LLMs, and Neural Networks  
-- 📃 &nbsp; [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/AshishChaturvedi-8033/B284216E17918581?sharingId=84573483C46E7A8C)
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🤖 &nbsp;
-  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat)
-  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat)
-  ![NLP](https://img.shields.io/badge/-NLP-333333?style=flat)
-  ![LLMs](https://img.shields.io/badge/-LLMs-333333?style=flat)
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=scikit-learn)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-  ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface)
-  ![Gradio](https://img.shields.io/badge/-Gradio-333333?style=flat&logo=gradio)
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-- ☁️ &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- 🔐 &nbsp;
-  ![Checkmarx](https://img.shields.io/badge/-Checkmarx-333333?style=flat&logo=checkmarx&logoColor=white)
-  ![Black Duck](https://img.shields.io/badge/-Black%20Duck-333333?style=flat&logo=synopsys&logoColor=white)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
-
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h1 align="center">Hey there, I'm Ashish 👋</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-chaturvedi-484360222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Chat-blue?style=flat-square&logo=linkedin"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=560&lines=AI+Engineer+%E2%86%92+MSc+Robotics+%26+AI+student;University+of+Glasgow+%E2%80%94+James+Watt+School+of+Engineering;RAG+pipelines+%7C+LLM+agents+%7C+Physical+AI+%7C+Robotics" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://ashtow2102.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ashtow2102.github.io-2DD4BF?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/ashish-chaturvedi-484360222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Chaturvedi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ashish210200@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashish210200%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://huggingface.co/AshishChaturvedi7"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-AshishChaturvedi7-FFD21E?style=flat-square&logo=huggingface&logoColor=black"></a>
+</p>
+
+### 👨🏻‍💻 About Me
+
+- 🎓 &nbsp; **MSc Robotics & AI** student at the **James Watt School of Engineering, University of Glasgow**
+- 💼 &nbsp; 3+ years as an **AI Engineer** shipping production GenAI systems — BBC News (UK), Julius Baer, and enterprise banking platforms via HCLTech
+- 🤖 &nbsp; Now moving from delivery into research — embodied intelligence, human-robot interaction, and physical AI
+- 🧠 &nbsp; Background spans LLM agents, RAG pipelines, MCP integrations, and workflow automation
+- 🤗 &nbsp; Sharing models and experiments on [Hugging Face](https://huggingface.co/AshishChaturvedi7)
+- 🌐 &nbsp; Full story, timeline, and projects on my [portfolio site](https://ashtow2102.github.io)
+- 📃 &nbsp; Certified: **Claude Certified Architect / Developer / Associate** (Anthropic) · **OpenAI Technical Practitioner** · [**Microsoft Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/AshishChaturvedi-8033/B284216E17918581?sharingId=84573483C46E7A8C) · **Google Cloud Generative AI Leader**
+
+### 🛠 Tech Stack
+
+**AI / GenAI**
+![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
+![Anthropic](https://img.shields.io/badge/-Claude-333333?style=flat&logo=anthropic)
+![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface)
+![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat)
+![RAG](https://img.shields.io/badge/-RAG%20Pipelines-333333?style=flat)
+
+**Robotics & Physical AI**
+![ROS2](https://img.shields.io/badge/-ROS2-333333?style=flat&logo=ros)
+![Gazebo](https://img.shields.io/badge/-Gazebo-333333?style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=scikit-learn)
+
+**Backend & Languages**
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
+
+**Data & Automation**
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
+
+**Web & Tools**
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHTOW2102&theme=dark&hide_border=true&background=0d1117&ring=2DD4BF&fire=F97316" alt="Streak Stats" />
+</p>
+
+### 🤝🏻 Connect with Me
+
+<p align="center">
+<a href="https://ashtow2102.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Site-2DD4BF?style=flat-square"></a>
+<a href="https://www.linkedin.com/in/ashish-chaturvedi-484360222/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashish%20Chaturvedi-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ashish210200@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashish210200@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://huggingface.co/AshishChaturvedi7"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-Ashish%20Chat-yellow?style=flat-square&logo=huggingface"></a>
 </p>
 
-⭐️ From [ASHTOW2102](https://github.com/ASHTOW2102)
+<p align="center">⭐️ From <a href="https://github.com/ASHTOW2102">ASHTOW2102</a> — Glasgow, Scotland, UK</p>
