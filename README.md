@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ashish 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=560&lines=AI+Engineer+%E2%86%92+MSc+Robotics+%26+AI+student;University+of+Glasgow+%E2%80%94+James+Watt+School+of+Engineering;RAG+pipelines+%7C+LLM+agents+%7C+Physical+AI+%7C+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&lines=AI+Engineer+-%3E+MSc+Robotics+%26+AI+Student;University+of+Glasgow%2C+James+Watt+School;RAG+Pipelines+%7C+LLM+Agents+%7C+Physical+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🧠 &nbsp; Background spans LLM agents, RAG pipelines, MCP integrations, and workflow automation
 - 🤗 &nbsp; Sharing models and experiments on [Hugging Face](https://huggingface.co/AshishChaturvedi7)
 - 🌐 &nbsp; Full story, timeline, and projects on my [portfolio site](https://ashtow2102.github.io)
-- 📃 &nbsp; Certified: [**Claude Certified Architect**](https://www.credly.com/badges/10b3cf5b-fd09-44af-b3d2-fab917076aae) · [**Claude Certified Developer**](https://www.credly.com/badges/ab911cdd-dc9b-434f-b3e9-fed476c85aed) · [**Claude Certified Associate**](https://www.credly.com/badges/9063e00e-9899-48c5-a391-1afc8cfad322) · **OpenAI Technical Practitioner** · [**Microsoft Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/AshishChaturvedi-8033/B284216E17918581?sharingId=84573483C46E7A8C) · [**Google Cloud Generative AI Leader**](https://www.credly.com/badges/e6bb211f-522c-4712-8b86-571dbac96acf/public_url)
+- 📃 &nbsp; Certified: [**Claude Certified Architect**](https://www.credly.com/badges/10b3cf5b-fd09-44af-b3d2-fab917076aae) · [**Claude Certified Developer**](https://www.credly.com/badges/ab911cdd-dc9b-434f-b3e9-fed476c85aed) · [**Claude Certified Associate**](https://www.credly.com/badges/9063e00e-9899-48c5-a391-1afc8cfad322) · [**Microsoft Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/AshishChaturvedi-8033/B284216E17918581?sharingId=84573483C46E7A8C) · [**Google Cloud Generative AI Leader**](https://www.credly.com/badges/e6bb211f-522c-4712-8b86-571dbac96acf/public_url)
 
 ### 🛠 Tech Stack
 
