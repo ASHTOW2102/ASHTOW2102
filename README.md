@@ -17,6 +17,7 @@
 - 💼 &nbsp; 3+ years as an **AI Engineer** shipping production GenAI systems — BBC News (UK), Julius Baer, and enterprise banking platforms via HCLTech
 - 🤖 &nbsp; Now moving from delivery into research — embodied intelligence, human-robot interaction, and physical AI
 - 🧠 &nbsp; Background spans LLM agents, RAG pipelines, MCP integrations, and workflow automation
+- 🚀 &nbsp; Publishing a new practical AI agent daily in [**AI_AGENTS**](https://github.com/ASHTOW2102/AI_AGENTS)
 - 🤗 &nbsp; Sharing models and experiments on [Hugging Face](https://huggingface.co/AshishChaturvedi7)
 - 🌐 &nbsp; Full story, timeline, and projects on my [portfolio site](https://ashtow2102.github.io)
 - 📃 &nbsp; Certified: [**Claude Certified Architect**](https://www.credly.com/badges/10b3cf5b-fd09-44af-b3d2-fab917076aae) · [**Claude Certified Developer**](https://www.credly.com/badges/ab911cdd-dc9b-434f-b3e9-fed476c85aed) · [**Claude Certified Associate**](https://www.credly.com/badges/9063e00e-9899-48c5-a391-1afc8cfad322) · [**Microsoft Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/AshishChaturvedi-8033/B284216E17918581?sharingId=84573483C46E7A8C) · [**Google Cloud Generative AI Leader**](https://www.credly.com/badges/e6bb211f-522c-4712-8b86-571dbac96acf/public_url)
